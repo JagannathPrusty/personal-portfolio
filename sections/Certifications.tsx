@@ -13,12 +13,12 @@ import {
 
 const certifications = [
   {
-    image: "/CTTC Cirtificate.jpeg",
+    image: "/CTTC_Cirtificate.jpeg",
     title: "Full Stack Development",
     institution: "CTTC Bhubaneswar",
     year: "2024",
     category: "Development",
-    link: "/CTTC Cirtificate.jpeg",
+    link: "/CTTC_Cirtificate.jpeg",
   },
   {
     image: "/unified_mentor.png",
